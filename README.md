@@ -33,6 +33,9 @@ vercel dev
 ```
 <a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width="240px" src="https://spotify-github-profile.vercel.app/api/view?uid=hzj9n5m5h04ei5lfopgfofqyb&cover_image=true" />
 
+
+
+<a target="_blank" href="https://github.com/kittinan/spotify-github-profile"><img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=hzj9n5m5h04ei5lfopgfofqyb&cover_image=true" />
 ## Credit
 
 Inspired by https://github.com/natemoo-re
