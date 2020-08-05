@@ -31,6 +31,7 @@ FIREBASE='__BASE64_FIREBASE_JSON_FILE__'
 ```
 vercel dev
 ```
+<a target="_blank" href="https://github.com/parekhakhil/spotify-github-profile"><img alt="spotify" width="240px" src="https://spotify-github-profile.vercel.app/api/view?uid=hzj9n5m5h04ei5lfopgfofqyb&cover_image=true" />
 
 ## Credit
 
